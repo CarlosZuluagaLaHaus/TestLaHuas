@@ -10,6 +10,7 @@
 *.iws
 *.editorconfig
 *.allure
+*.null
 
 # Gradle
 log/
